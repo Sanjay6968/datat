@@ -257,4 +257,4 @@ python main_demo.py "test/fresh/f (1).png"
 
 ### Google Colab (One-Click)
 Open the complete interactive notebook:
-👉 **[Open in Google Colab](https://colab.research.google.com/github/Sanjay6968/datat/blob/main/notebooks/Avocado_Orange_Ripening_Pipeline.ipynb)**
+ **[Open in Google Colab](https://colab.research.google.com/github/Sanjay6968/datat/blob/main/notebooks/Avocado_Orange_Ripening_Pipeline.ipynb)**
