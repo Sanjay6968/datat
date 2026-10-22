@@ -1,11 +1,6 @@
 # Produce Condition & Ripening Stage Detection Pipeline
 ### Comparative Computer Vision Study: Classical CV (CIELAB + LBP + SVM/RF) vs. Graph Neural Network (GCN on Superpixel RAG)
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![PyTorch Geometric](https://img.shields.io/badge/PyG-2.7+-3C2179.svg)](https://pyg.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## Executive Summary
